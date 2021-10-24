@@ -1,0 +1,6 @@
+2021-10-24 10:59:06,117 [INFO ] com.testBase.TestBase  - initializating browser
+2021-10-24 10:59:06,126 [INFO ] com.testBase.TestBase  - property file value found
+2021-10-24 10:59:06,126 [INFO ] com.testBase.TestBase  - chromebroweser is initialized
+2021-10-24 10:59:11,221 [INFO ] com.testBase.TestBase  - maximising browser window
+2021-10-24 10:59:11,507 [INFO ] com.testBase.TestBase  - property file value found
+2021-10-24 10:59:12,814 [INFO ] com.testBase.TestBase  - applying common waits over a browser
